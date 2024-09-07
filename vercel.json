@@ -1,5 +1,5 @@
 {
-    "vesrsion":1,
+    "vesrsion":2,
     "builds":[
         {
             "src":"server.js",
